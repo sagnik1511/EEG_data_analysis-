@@ -1,9 +1,10 @@
 # EEG_data_analysis-
 Searching anomaly in a EEG datasets for treatment purpose.
 
-The notebook has been created in kaggle ipynb. So the directories may be changed when running these files on any extrenal sites or applications.
+The notebook has been created in **kaggle ipynb**. So the directories may be changed when running these files on any extrenal sites or applications.
 
 Link of the dataset - https://www.kaggle.com/abyssjumper/meditation-eegdata
+
 Link of the notebook in kaggle - https://www.kaggle.com/sagnik1511/eeg-data-analysis-anomaly-searching
 
 ### Procedure:
